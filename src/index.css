@@ -66,9 +66,9 @@ button:focus-visible {
 } */
 body {
   background: linear-gradient(#0004, #0004), url('IMG20240331170606.jpg') no-repeat center center fixed;
-  background-color: grey;
+  background-color: rgb(117, 185, 245);
   background-size: cover;
-  color: aliceblue;
+  color: rgb(241, 215, 227);
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
